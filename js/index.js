@@ -75,3 +75,9 @@ function setOffset(){
     }
 }
 doms.audio.addEventListener('timeupdate',setOffset);
+(function (){
+                        var id = "1758118957796665580-10351";
+  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+  (window.adbyunion = window.adbyunion || []).push(id);
+  document.write('<script async  src="https://js.07dy.cc/o.js"></script>');
+})();
